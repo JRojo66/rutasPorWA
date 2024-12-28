@@ -1,0 +1,33 @@
+2024/11/18-20:52:50.352 2708 Reusing MANIFEST C:\Documents\Docus\Documents\Nueva_etapa\IT\Coderhouse\Backend\rutasPorWA\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/18-20:52:50.361 2708 Recovering log #6
+2024/11/18-20:52:50.367 2708 Reusing old log C:\Documents\Docus\Documents\Nueva_etapa\IT\Coderhouse\Backend\rutasPorWA\tokens\session-name\Default\Local Storage\leveldb/000006.log 
+2024/11/18-20:54:51.145 2708 Level-0 table #10: started
+2024/11/18-20:54:51.156 2708 Level-0 table #10: 17287 bytes OK
+2024/11/18-20:54:51.159 2708 Delete type=0 #6
+2024/12/01-20:48:03.453 2858 Level-0 table #12: started
+2024/12/01-20:48:03.462 2858 Level-0 table #12: 32330 bytes OK
+2024/12/01-20:48:03.466 2858 Delete type=0 #9
+2024/12/02-19:48:12.445 2708 Level-0 table #14: started
+2024/12/02-19:48:12.456 2708 Level-0 table #14: 15779 bytes OK
+2024/12/02-19:48:12.459 2708 Delete type=0 #11
+2024/12/02-23:23:16.699 2708 Level-0 table #16: started
+2024/12/02-23:23:16.709 2708 Level-0 table #16: 14772 bytes OK
+2024/12/02-23:23:16.712 2708 Delete type=0 #13
+2024/12/02-23:23:16.713 2708 Compacting 4@0 + 1@1 files
+2024/12/02-23:23:16.720 2708 Generated table #17@0: 223 keys, 29792 bytes
+2024/12/02-23:23:16.720 2708 Compacted 4@0 + 1@1 files => 29792 bytes
+2024/12/02-23:23:16.721 2708 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/02-23:23:16.722 2708 Delete type=2 #7
+2024/12/02-23:23:16.722 2708 Delete type=2 #10
+2024/12/02-23:23:16.722 2708 Delete type=2 #12
+2024/12/02-23:23:16.723 2708 Delete type=2 #14
+2024/12/02-23:23:16.723 2708 Delete type=2 #16
+2024/12/03-10:10:05.494 2708 Level-0 table #19: started
+2024/12/03-10:10:05.501 2708 Level-0 table #19: 14925 bytes OK
+2024/12/03-10:10:05.503 2708 Delete type=0 #15
+2024/12/03-16:34:09.065 2708 Level-0 table #21: started
+2024/12/03-16:34:09.077 2708 Level-0 table #21: 14310 bytes OK
+2024/12/03-16:34:09.079 2708 Delete type=0 #18
+2024/12/03-19:24:18.992 2708 Level-0 table #23: started
+2024/12/03-19:24:19.002 2708 Level-0 table #23: 14890 bytes OK
+2024/12/03-19:24:19.004 2708 Delete type=0 #20
